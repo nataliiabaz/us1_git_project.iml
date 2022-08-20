@@ -2,5 +2,6 @@ package Login;
 
 public class User {
     //user only
-    //I am dev, working on projekt
+    //I am dev, working on project
+    //User class completed
 }
